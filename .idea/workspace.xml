@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="885aa04d-4c64-4be9-b29a-7e19aeae68d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_1/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/task_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623129925231</updated>
-      <workItem from="1623129928384" duration="6397000" />
+      <workItem from="1623129928384" duration="8375000" />
     </task>
     <servers />
   </component>
@@ -175,22 +175,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1623138090262">
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1623138416517">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1623138090262" />
-    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1623138090261">
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1623138416517" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1623138416515">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1623138090261" />
-    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1623138090261">
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1623138416515" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1623138416514">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1623138090261" />
-    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1623138090262">
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1623138416514" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1623138416516">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1623138090262" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1623138416516" />
     <state x="660" y="216" width="662" height="682" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1623130431782">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -203,7 +203,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algoritm_home_work$task_2.coverage" NAME="task_2 Coverage Results" MODIFIED="1623133480622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_1" />
     <SUITE FILE_PATH="coverage/algoritm_home_work$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1623132395292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_1" />
-    <SUITE FILE_PATH="coverage/algoritm_home_work$task_4.coverage" NAME="task_4 Coverage Results" MODIFIED="1623138090237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_1" />
+    <SUITE FILE_PATH="coverage/algoritm_home_work$task_4.coverage" NAME="task_4 Coverage Results" MODIFIED="1623138381943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_1" />
     <SUITE FILE_PATH="coverage/algoritm_home_work$task_3.coverage" NAME="task_3 Coverage Results" MODIFIED="1623134436347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_1" />
   </component>
 </project>
